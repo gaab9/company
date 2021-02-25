@@ -1,0 +1,18 @@
+h1 {
+  color:black;
+}
+body {
+    background-color: wheat;
+}
+hr{
+    border-color: #253e5c;
+}
+div.centro {
+  text-align: center;
+}
+div.esquerda {
+  text-align: left;
+}
+div.just {
+  text-align: justify;
+}
